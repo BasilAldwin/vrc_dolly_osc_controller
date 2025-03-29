@@ -27,5 +27,5 @@ FOV, Apature, and focus, aswell as the timing options (these acan be keyframed a
 
 
 PLANS / NOTICE
-First off, I wrote this with Gemini's new 2.5 model, it does better with code thatn i've seen most LLM do, I KNOW NOW PYTHON CODING. as far as plans for updates, i'd like Vrchat to update and add more than 100 waypoints, that way we could get fluid
+First off, I wrote this with Gemini's new 2.5 model, it does better with code than i've seen most LLM do, I KNOW NOW PYTHON CODING. as far as plans for updates, i'd like Vrchat to update and add more than 100 waypoints, that way we could get fluid
 Motion tracking from blender into VRC, if that happend i'll plan to update a better Realtime option for this project.
