@@ -12,6 +12,9 @@ REALTIME
 The real time option isn't quite real time as Vrchat's dolly is super limited right now, instead it spams the /import and the /play to the osc system 
 acting almost realtime, (Unfortunetly this won't work wit hKeyframed camera's in blender)
 
+VIDEO SHOWCASE
+https://youtu.be/nX6TZgmYgIc
+
 
 
 INSTALATION
