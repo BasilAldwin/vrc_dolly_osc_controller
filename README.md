@@ -18,7 +18,7 @@ https://youtu.be/nX6TZgmYgIc
 
 
 INSTALATION
-Install the zip by going to blender / Prefrences / install addon from zip / select the download.
+Download from the code button, Extract the zip within the folder Install the zip by going to blender / Prefrences / install addon from zip / select the download.
 
 
 USAGE
