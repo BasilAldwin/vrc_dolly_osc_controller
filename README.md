@@ -13,6 +13,8 @@ The real time option isn't quite real time as Vrchat's dolly is super limited ri
 acting almost realtime, (Unfortunetly this won't work wit hKeyframed camera's in blender)
 
 # [VIDEO SHOWCASE](https://youtu.be/nX6TZgmYgIc)
+# [Example of some quirks](https://youtu.be/vBeO5bj4_3A?si=kl11-O-FtbPx-DEm)
+
 
 
 # INSTALATION
